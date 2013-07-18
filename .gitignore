@@ -1,0 +1,32 @@
+# Jinhwan's .gitignore version 1.0 #
+
+# Compiler      #
+#################
+Debug
+Release
+
+# Visual Studio #
+#################
+ipch
+*.aps
+*.sdf
+*.suo
+*.opensdf
+
+# Eclipse       #
+#################
+.metadata
+.settings
+
+# CodeWarrior   #
+#################
+.cwGeneratedFileSetLog
+
+# Jinhwan's Temp #
+##################
+__IGN_*
+
+# OS generated files #
+######################
+Thumbs.db
+.DS_Store
