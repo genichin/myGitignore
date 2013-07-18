@@ -21,6 +21,7 @@ ipch
 # CodeWarrior   #
 #################
 .cwGeneratedFileSetLog
+ReferencedRSESystems.xml
 
 # Jinhwan's Temp #
 ##################
