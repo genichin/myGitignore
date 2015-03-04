@@ -19,7 +19,7 @@ ipch
 #################
 .metadata
 .settings
-RemoteSystemTempFiles
+RemoteSystemsTempFiles
 RemoteLaunch
 
 # CodeWarrior   #
