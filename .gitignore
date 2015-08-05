@@ -1,4 +1,4 @@
-# Jinhwan's .gitignore version 1.1 #
+# Jinhwan's .gitignore version 1.2 #
 
 # Compiler      #
 #################
@@ -12,20 +12,19 @@ ipch
 *.sdf
 *.suo
 *.opensdf
-*.ncb
-*.opt
 
 # Eclipse       #
 #################
-.metadata
-.settings
 RemoteSystemsTempFiles
 RemoteLaunch
+.metadata
+.settings
 
 # CodeWarrior   #
 #################
 .cwGeneratedFileSetLog
 ReferencedRSESystems.xml
+SaAnalysispointsManager.apconfig
 
 # Jinhwan's Temp #
 ##################
